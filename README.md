@@ -1,2 +1,2 @@
-# gyroscope_simulation
-To model, simulate and animate the dynamic system of a gyroscope by the MATLAB
+# Gyroscope Simulation
+To model, simulate and animate the dynamic system of a gyroscope by using the MATLAB
